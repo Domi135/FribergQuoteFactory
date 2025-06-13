@@ -1,0 +1,6 @@
+@FribergQuoteFactory_HostAddress = http://localhost:5157
+
+GET {{FribergQuoteFactory_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
